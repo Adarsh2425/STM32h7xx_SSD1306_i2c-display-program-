@@ -26,8 +26,8 @@ This repository contains a program developed in **STM32CubeIDE v1.16.1** for int
 ### Hardware Setup
 
 1. Connect the **OLED Display** to the STM32H723ZG board using the I2C pins:
-   - **SCL** (Serial Clock): Connect to I2C1_SCL (typically `PB6`).
-   - **SDA** (Serial Data): Connect to I2C1_SDA (typically `PB7`).
+   - **SCL** (Serial Clock): Connect to I2C1_SCL (typically `PB8`).
+   - **SDA** (Serial Data): Connect to I2C1_SDA (typically `PB9`).
 2. Make sure the display power is correctly connected to a 3.3V or 5V supply depending on your display specifications.
 
 ### Connection Diagram
