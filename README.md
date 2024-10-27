@@ -36,6 +36,11 @@ Add a connection diagram to help with the setup. Place the image in the `images`
 
 ![STM32H723ZG I2C Display Connection](img/WhatsApp%20Image%202024-10-27%20at%2017.11.49_dd6320ea.jpg)
 
+ie D14 SDA PB9
+D15 SCL PB8
+and +5 v and gnd 
+
+
 ### Software Setup
 
 1. Open the project in **STM32CubeIDE v1.16.1**.
