@@ -34,7 +34,7 @@ This repository contains a program developed in **STM32CubeIDE v1.16.1** for int
 
 Add a connection diagram to help with the setup. Place the image in the `images` folder and name it `connection_diagram.png` for it to display correctly.
 
-![STM32H723ZG I2C Display Connection](images/connection_diagram.png)
+![STM32H723ZG I2C Display Connection](img/WhatsApp%20Image%202024-10-27%20at%2017.11.49_dd6320ea.jpg)
 
 ### Software Setup
 
