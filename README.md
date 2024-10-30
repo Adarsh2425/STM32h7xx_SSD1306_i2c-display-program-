@@ -11,7 +11,6 @@ This repository contains a program developed in **STM32CubeIDE v1.16.1** for int
 
 ## Requirements
 
-
 - **STM32H723ZG Nucleo Board** (or similar STM32H7 board)
 - **STM32CubeIDE v1.16.1** (or compatible version)
 - **OLED Display** with an SSD1306 or compatible driver using I2C interface
