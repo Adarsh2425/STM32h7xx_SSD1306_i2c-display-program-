@@ -2,6 +2,7 @@
 
 This repository contains a program developed in **STM32CubeIDE v1.16.1** for interfacing an OLED display with an **STM32H723ZG** microcontroller using the I2C communication protocol. This example demonstrates initializing the I2C interface, configuring the display, and showing basic text or graphics.
 
+
 ## Features
 
 - **I2C Communication**: Interface with the display using the I2C protocol.
